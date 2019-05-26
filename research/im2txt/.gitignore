@@ -5,3 +5,6 @@
 /bazel-im2txt
 /bazel-testlogs
 /bazel-tf
+
+/pyenv
+/data/
